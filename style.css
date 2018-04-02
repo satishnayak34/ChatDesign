@@ -1,0 +1,40 @@
+.navBack{
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.no-border{
+    border: none;
+}
+
+.card-Margin{
+    margin: 20px;
+}
+
+.my-Profile{
+    border-top,border-bottom: 1px solid #333;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,.1),0 4px 20px 0 rgba(0,0,0,.1);
+}
+.message1{
+    overflow: hidden;
+    border: none;
+    background: #1adda4;
+    border-radius: 10px;
+}
+
+.message2{
+    overflow: hidden;
+    border: none;
+    background: #1ddced;
+    border-radius: 10px;
+}
+
+.small-image{
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    margin: 5px; 
+}
+ nav a:hover{
+    transform: scale(1.2);
+}
